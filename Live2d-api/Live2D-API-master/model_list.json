@@ -1,0 +1,14 @@
+{
+    "models": [
+	"hanasaki",
+        "chiluno",
+        "bilibili-live/22",
+        "bilibili-live/33"
+    ],
+    "messages": [
+	"来自 絢咲萌 的hanasaki酱 ~",
+        "来自 東方Project 的 チルノ 酱 ~",
+        "来自 Bilibili Live 的 22 哦 ~",
+        "来自 Bilibili Live 的 33 的说"
+    ]
+}

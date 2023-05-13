@@ -1,0 +1,8 @@
+{
+	"type": "Live2D Model Setting",
+	"name": "chiluno",
+	"model": "chiluno.moc",
+	"textures": [
+		"textures/texture_00.png"
+	]
+}
