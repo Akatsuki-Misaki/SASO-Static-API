@@ -6,3 +6,6 @@
 # SASO-Static-API
 
 来自SASO的静态资源API库
+
+## 说明
+hoyolab为国际版米游社的自动签到脚本
