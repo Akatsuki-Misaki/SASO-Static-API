@@ -1,4 +1,4 @@
-('H:\\Git_alicloud\\Windows-C\\build\\ups-test\\PYZ-00.pyz',
+('H:\\Git_alicloud\\SASO-Static-API\\Study\\Python\\Ups-Smtp\\build\\ups-test\\PYZ-00.pyz',
  [('_compat_pickle',
    'C:\\Users\\paolucloud\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_compat_pickle.py',
    'PYMODULE'),
